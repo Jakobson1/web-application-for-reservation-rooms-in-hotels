@@ -1,1 +1,2 @@
-# web-application-for-reservation-rooms-in-hotels
+In this project, a site was created where users can book rooms within a hotel chain, as well as where employees can have an exact insight into who and when booked which room. The system also has a scenario for an administrator who can grant privileges . Each record of reservation information is stored within a database.First, a software design was done, and then i started the development with certain technologies.
+Technologies i used: Java JSP, Jquery, MSSQL, HTML,CSS and other framework for frontend
